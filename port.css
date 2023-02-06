@@ -1,0 +1,233 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+border-radius: 15px;
+}
+
+.info {
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+
+}
+
+img {
+    width: 300px;
+    height: 650px;
+    border-radius: 5px;
+}
+
+.proj {
+    background-color: blueviolet;
+    width: 1000px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 250px;
+}
+
+H1 {
+    padding-bottom: 10px;
+}
+
+.blob {
+    background-color: blueviolet;
+    width: 75%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-left: 190px;
+    margin-bottom: 50px;
+}
+
+.product {
+    border: 7px solid rgb(12, 12, 90);
+}
+
+.cont {
+    background-color: blueviolet;
+    width: 500px;
+    text-align: center;
+    display: flex;
+    margin-left: 520px;
+    margin-bottom: 45px;
+}
+
+button {
+    color: aliceblue;
+    background-color: rgb(80, 20, 136);
+    border-radius: 0px;
+    border: 0px;
+    height: 50px;
+    width: 100px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    /* padding-left: 80px;
+    padding-right: 80px; */
+    /* padding-bottom: 30px; */
+
+
+}
+
+.blocks {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+    padding-top: 100px;
+
+}
+
+.small {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+
+    padding: 10px;
+}
+
+.img {
+    height: 200px;
+    width: 500px;
+}
+
+.about {
+    width: 500px;
+    padding-top: 120px;
+    padding-left: 200px;
+}
+
+nav {
+    background-color: rgb(42, 5, 51);
+    height: 50px;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+
+
+
+
+
+.list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 30px;
+    padding-right: 30px;
+
+}
+
+li {
+    display: flex;
+
+
+}
+
+.lists {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    padding-right: 30px;
+}
+
+.icon {
+    display: none;
+}
+
+.info {
+    padding-top: 10px;
+}
+
+.J {
+    color: white;
+    cursor: pointer;
+}
+
+.nav {
+    background-color: rgb(33, 7, 58);
+    display: flex;
+    justify-content: center;
+    color: white;
+    height: 70px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.J {
+    color: white;
+    padding-right: 780px;
+    font-weight: 550;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding-top: 12px;
+}
+
+li {
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+.aboot {
+    width: 800px;
+    padding-top: 120px;
+    padding-left: 200px;
+}
+
+.pics {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.proj {
+    align-items: center;
+
+}
+
+.my {
+    flex-direction: row;
+}
+
+.bros {
+    display: flex;
+    flex-direction: row;
+    padding-left: 100px;
+}
+.p{
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content:center;
+    padding: 20px;
+    align-items: center;
+}
